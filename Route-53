@@ -1,0 +1,3 @@
+# Weighted Records
+ - For weighted routing the name of the different records must be same. 
+    - https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-values-weighted.html#rrsets-values-weighted-name
