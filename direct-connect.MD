@@ -6,7 +6,9 @@
 
  - Yes, you can advertise up to 100 routes over each Border Gateway Protocol session using AWS Direct Connect.
 
+## Q. Can I use AWS Direct Connect and a VPN Connection to the same VPC simultaneously?
 
+Yes. However, only in fail-over scenarios. The Direct Connect path will always be preferred, when established, regardless of AS path prepending.
 
 ## Private VIF
 - A private VIF is associated with a single VGW in a VPC.
