@@ -8,3 +8,6 @@ connectivity per VPC can become difficult.
 2. Edge consolidation — In this setup, customers consolidate hybrid IT connectivity for multiple VPCs
 at a single endpoint. All the VPCs share these hybrid connections. This is accomplished by leveraging
 AWS Transit Gateway and the Direct Connect Gateway.
+
+#### Reference
+https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf
