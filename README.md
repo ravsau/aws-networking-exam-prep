@@ -7,3 +7,10 @@ notes and labs for AWS networking speciality exam prep
   - https://docs.aws.amazon.com/directoryservice/latest/admin-guide/dhcp_options_set.html
 2. AWS Transit Gateway Lab
   - https://github.com/aws-samples/aws-transit-gateway-routing-lab
+
+
+
+
+## Exam Guides
+- https://tutorialsdojo.com/aws-certified-advanced-networking-specialty-exam-study-path/
+- https://daviseford.com/blog/2018/12/21/aws-advanced-networking-specialty-exam-tips.html
