@@ -14,3 +14,7 @@ Port:
 
 ### Reference
 https://www-public.imtbs-tsp.eu/~maigron/RIR_Stats/RIR_Delegations/World/ASN-ByNb.html
+
+
+Other Stats: 
+The number of allocated ASNs exceeded 92,000 as of August 2019.[7]
