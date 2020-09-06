@@ -1,6 +1,10 @@
 ## Reference
 https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpn-cloudhub.html
 
+
+What you can do with it?
+- Connect multiple on-prem offices without a VPC on AWS. Talk with your office resources across several networks. VPN Cloudhub facilitates that connectivity.
+
 Building on the AWS managed VPN options described previously, you can securely communicate from one site to another using the AWS VPN CloudHub. The AWS VPN CloudHub operates on a simple hub-and-spoke model that you can use with or without a VPC. Use this approach if you have multiple branch offices and existing internet connections and would like to implement a convenient, potentially low-cost hub-and-spoke model for primary or backup connectivity between these remote offices.
 
 The following figure shows the AWS VPN CloudHub architecture, with dashed lines indicating network traffic between remote sites being routed over their AWS VPN connections.
