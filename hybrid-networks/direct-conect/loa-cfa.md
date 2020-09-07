@@ -4,6 +4,7 @@
     - Reference
     - https://en.everybodywiki.com/LOA-CFA
     
-- The LOA-CFA expires after 90 days. If your connection is not up after 90 days, we send you an email alerting you that the LOA-CFA has expired. To refresh the LOA-CFA with a new issue date, download it again from the AWS Direct Connect console. If you do not take any action, we delete the connection.
+- The LOA-CFA expires after 90 days.
+    - If your connection is not up after 90 days, we send you an email alerting you that the LOA-CFA has expired. To refresh the LOA-CFA with a new issue date, download it again from the AWS Direct Connect console. If you do not take any action, we delete the connection.
 
 
