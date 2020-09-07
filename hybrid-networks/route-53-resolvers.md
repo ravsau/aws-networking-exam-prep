@@ -17,3 +17,8 @@ When combined, these two capabilities allow for recursive DNS lookup for your hy
 
 ## Reference
 https://aws.amazon.com/blogs/aws/new-amazon-route-53-resolver-for-hybrid-clouds/
+
+
+--
+
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resolver.html#resolver-overview-forward-vpc-to-network
