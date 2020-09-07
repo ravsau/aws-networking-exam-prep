@@ -11,3 +11,11 @@ Use the AWS Direct Connect tab on the AWS Management Console to create a new con
 - 10 Gbps max speed per DX connection
   - can use LAG for more bandwidth 
 - Reduced data transfer charges
+
+
+
+## Notes 
+
+- Dedicated connections can have 50 public or private VIFs + 1 Transit VIFs 
+- Hosted connections can only support 1 VIF
+
